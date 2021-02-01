@@ -1,0 +1,19 @@
+$ui-color-blue-bg: #E9F0FD;
+$ui-color-blue: #216BFF;
+
+$ui-color-yellow: #FFD900;
+$ui-color-yellow-dark: #E59900;
+
+$ui-color-red: #DF2059;
+
+$ui-color-gray: #D4D9E2;
+$ui-color-gray-dark: #8D95A5;
+
+$ui-color-white: #ffff;
+$ui-color-black: #172133;
+
+// Export the color palette to make it accessible to JS
+:export {
+  yellowdark: $ui-color-yellow-dark;
+  black: $ui-color-black;
+}
